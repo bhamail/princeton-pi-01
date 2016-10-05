@@ -43,9 +43,17 @@ OS's included:
 
 * Default password: raspberry 
 
-    - should probably change this using [raspi-config](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)
+    - should probably change this
+     
+        - via [raspi-config](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)
+        - via Desktop UI -> Pi -> Preferences -> Raspberry Pi Configuration
 
-* What's my Pi's IP Address:
+* Connect to network
+
+    - ethernet
+    - wireless
+    
+  What's my Pi's IP Address:
 
       pi@raspberrypi:~ $ ifconfig
 
@@ -55,7 +63,7 @@ OS's included:
 
   - via CLI (Command Line Interface)
 
-      $ sudo apt-get update && sudo apt-get upgrade
+        $ sudo apt-get update && sudo apt-get upgrade
       
   - via Desktop UI
   
@@ -96,3 +104,8 @@ LibreELEC
      - PBS Think TV
      - TED Talks
      - YouTube
+
+* Be aware of Settings "Level" - 'Basic' shows fewer settings, 'Standard' shows more, 
+  'Advanced' and 'Expert' show more still...
+  
+* PVR plugin for use with a Media Server - like [MythTV](http://mythtv.org)
