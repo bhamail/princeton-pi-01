@@ -1,7 +1,7 @@
 Princeton Pi - 01 - NOOBS, Kodi, and whatever
 =============================================
 
-These notes live [here](). 
+These notes live [here](https://github.com/bhamail/princeton-pi-01). 
 Written in the [Markdown](https://www.raspberrypi.org/documentation/configuration/raspi-config.md) format. 
 Improvements are welcome! 
 
