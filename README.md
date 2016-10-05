@@ -3,8 +3,10 @@ Princeton Pi - 01 - NOOBS, Kodi, and whatever
 
 7:30 Wed, October 5, 2016, [Tiger Labs](http://tigerlabs.co)
 
-These notes live here: https://github.com/bhamail/princeton-pi-01.git 
-Written in the [Markdown](https://daringfireball.net/projects/markdown/syntax) format. 
+These notes live here: https://github.com/bhamail/princeton-pi-01.git.
+
+Written in the [Markdown](https://daringfireball.net/projects/markdown/syntax) format.
+
 [Improvements](https://help.github.com/articles/creating-a-pull-request/) are welcome! 
 
 The Org
