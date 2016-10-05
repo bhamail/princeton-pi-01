@@ -22,7 +22,7 @@ NOOBS
 
 *N*ew *O*ut *O*f *B*ox *S*oftware - https://www.raspberrypi.org/downloads/noobs/
 
-Current version: 1.9.3
+Current version: 1.9.3, size: 1.17gb zip
 
 OS's included:
 
